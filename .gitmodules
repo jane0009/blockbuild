@@ -1,30 +1,3 @@
-[submodule "libs/raknetify"]
-	path = mods/raknetify
-	url = https://github.com/RelativityMC/raknetify.git
-[submodule "libs/kosmolot-malilib"]
-	path = mods/kosmolot-malilib
-	url = https://github.com/kosmolot-mods/malilib.git
-[submodule "libs/Squake"]
-	path = mods/Squake
-	url = https://github.com/adryd325/Squake.git
-[submodule "libs/ceramic"]
-	path = mods/ceramic
-	url = https://github.com/adryd325/ceramic.git
-[submodule "mods/autofish"]
-	path = mods/autofish
-	url = https://github.com/Wudji/autofish.git
-[submodule "mods/baritone"]
-	path = mods/baritone
-	url = https://github.com/wagyourtail/baritone.git
-[submodule "mods/Nostalgic-Tweaks"]
-	path = mods/Nostalgic-Tweaks
-	url = https://github.com/Adrenix/Nostalgic-Tweaks.git
-[submodule "mods/curium"]
-	path = mods/curium
-	url = https://github.com/katietheqt/curium.git
-[submodule "mods/hajlib"]
-	path = mods/hajlib
-	url = https://github.com/n2pm/hajlib.git
-[submodule "mods/tangerine"]
-	path = mods/tangerine
-	url = https://github.com/n2pm/tangerine.git
+[submodule "mods/create-new-age"]
+	path = mods/create-new-age
+	url = git@gitlab.com:antarcticgardens/create-new-age
